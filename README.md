@@ -1,7 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Ganeshkumar</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/5eKX.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651780522995/zZbL8WM2v.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gk1106&label=Profile%20views&color=0e75b6&style=flat" alt="gk1106" /> </p>
 
