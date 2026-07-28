@@ -1,7 +1,7 @@
 ![MasterHead](https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Ganeshkumar%20|%20Java%20Full-Stack%20Developer&fontSize=38&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=Software%20Developer%20%7C%20System%20Designer%20%7C%20Backend%20Architect&descAlignY=62&descSize=18&descColor=E0E0E0)
 
 <h1 align="center">Hi 👋, I'm Ganeshkumar</h1>
-<h3 align="center">Java Full-Stack Developer · /h3>
+<h3 align="center">Java Full-Stack Developer · </h3>
 <p align="center">Building scalable backend systems and clean, user-focused web applications</p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651780522995/zZbL8WM2v.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm">
