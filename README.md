@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651780522995/zZbL8WM2v.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm">
 
-- 💼 ** Full-Stack Developer, working across Development, System Design, and Solution Architecture**
+- 💼 ** Full-Stack Developer, working across Development, System Design**
 
 - 🔭 I'm currently working on **Open source contributions & scalable backend systems**
 
