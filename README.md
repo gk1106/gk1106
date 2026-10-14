@@ -70,7 +70,7 @@
 </p>
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=gk1106&label=Profile%20Views&color=2F74C0&style=for-the-badge](https://komarev.com/ghpvc/?username=GK1106&label=Profile+Views&color=2F74C0&style=for-the-badge" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=GK1106&label=Profile+Views&color=2F74C0&style=for-the-badge" alt="profile views" />
 </p>
 
 
